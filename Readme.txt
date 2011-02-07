@@ -1,7 +1,0 @@
-12345
-abcd
-ABCD
-second 
-second
-third thirst
-ha ha
